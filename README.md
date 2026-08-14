@@ -97,19 +97,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeelSavsani&show_icons=true&theme=default&count_private=true" alt="Neel's GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=NeelSavsani&theme=default" alt="Neel's GitHub streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelSavsani&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
-
----
-
 <p align="center">
   <em>📫 Reach out — always open to collaborating on web dev, security, or hackathon projects!</em>
 </p>
