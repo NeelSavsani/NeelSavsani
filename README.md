@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neel Savsani</h1>
-<h3 align="center">Full-Stack Developer | B.Tech Computer Engineering Student</h3>
+<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | B.Tech Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Exploring+Everyday+%26+ML;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Exploring+Cybersecurity+%26+ML;Project+Lead+%40+CyberShield;Always+shipping+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 - 🎓 B.Tech in Computer Engineering @ **LDRP Institute of Technology & Research** (2023–2027)
 - 💻 Full-stack developer with hands-on experience across **web development, mobile apps, and cybersecurity**
-- 🛡️ Member of **CyberShield**, a phishing & cyber threat detection platform combining Cybersecurity, NLP, and Image Processing
+- 🛡️ Currently leading **CyberShield**, a phishing & cyber threat detection platform combining Cybersecurity, NLP, and Image Processing
 - 🌱 Interned as a Frontend Developer, Full Stack Developer, and Android App Developer across multiple organizations
 - 🏆 Active hackathon participant — Ideathon, ImpactThon, SSIP 2.0, SIH, ODOO x KSV
 - ⚡ Fun fact: I like turning "just an academic project" into something that actually works end-to-end
@@ -101,7 +101,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NeelSavsani&show_icons=true&theme=default&count_private=true" alt="Neel's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeelSavsani" alt="Neel's GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=NeelSavsani&theme=default" alt="Neel's GitHub streak" height="165"/>
 </p>
 
 <p align="center">
