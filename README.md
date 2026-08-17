@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="banner.png" alt="Neel Savsani Banner" width="100%" />
+  <img src="Banner.png" alt="Neel Savsani Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Neel Savsani</h1>
-<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | B.Tech Computer Engineering Student</h3>
+<h3 align="center">Full-Stack Developer | Master Eagle | B.Tech Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Exploring+Cybersecurity+%26+ML;Project+Lead+%40+CyberShield;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Always+shipping+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
