@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="banner.png" alt="Neel Savsani Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Neel Savsani</h1>
-<h3 align="center">Full-Stack Developer | B.Tech Computer Engineering Student</h3>
+<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | B.Tech Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Exploring+Everyday;Project+%40+CyberShield;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Exploring+Cybersecurity+%26+ML;Project+Lead+%40+CyberShield;Always+shipping+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -94,6 +98,19 @@
 - ☁️ AWS Cloud Essentials — Hands-on Workshop with EC2 & S3 (TechNova Club, LDRP-ITR)
 - 💻 Seminar & Workshop on React-JS (Hands-on) and Software Testing
 - 🏆 Hackathons: Ideathon, ImpactThon, SSIP 2.0, SIH, ODOO x KSV
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeelSavsani&show_icons=true&theme=default&count_private=true" alt="Neel's GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=NeelSavsani&theme=default" alt="Neel's GitHub streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelSavsani&layout=compact&theme=default" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
